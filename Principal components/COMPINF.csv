@@ -1,0 +1,11 @@
+pc_id,pos,neg,eig_val,exp_var
+PC0,republic congress collectivities chamber senate,subsection section house king governor,0.037496125420679795,3.98
+PC1,king senate parliament collectivities house,congress federation hisher branch majlis,0.025241824506328593,2.68
+PC2,congress king royal house senate,republic parliament collectivities subsection magistrature,0.02402699060252804,2.55
+PC3,king majlis prince realm royal,congress subsection section senate house,0.022534115011921606,2.39
+PC4,house republic hisher houses senate,collectivities chamber congress subsection prince,0.01638167875457011,1.74
+PC5,parliament provincial chamber hisher republic,house federation collectivities majlis yang,0.014450014268979171,1.53
+PC6,provincial province clause provinces pakistan,chamber deputies republic everyone subsection,0.014246425801996324,1.51
+PC7,king subsection prince collectivities realm,chamber senate parliament majlis provincial,0.012673901614878944,1.35
+PC8,parliament congress clause senate prince,chamber provincial subsection majlis section,0.012343731725528797,1.31
+PC9,majlis milli republic maldives shura,federation chamber clause nigeria art,0.011797822567838092,1.25
